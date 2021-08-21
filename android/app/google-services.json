@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027814677927",
+    "project_id": "bwa-flutix-966ee",
+    "storage_bucket": "bwa-flutix-966ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027814677927:android:d31481becf8fd63d862a82",
+        "android_client_info": {
+          "package_name": "com.example.bwa_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027814677927-s8dm35i1nvm8oqkv1jnepm3bt7set34g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIY1M5xpczCSio33ndwEdjtoV06-L5UJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027814677927-s8dm35i1nvm8oqkv1jnepm3bt7set34g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
